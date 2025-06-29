@@ -4,20 +4,20 @@ This repository contains a collection of 12 hands-on Computer Vision lab tasks i
 
 ## 🔍 Lab Index
 
-| S.No | Lab Title                                | Folder                         |
-|------|------------------------------------------|--------------------------------|
-| 1    | Drawing Functions in OpenCV              | [Lab 1](./Drawing Functions in OpenCV) |
-| 2    | Core Operations                          | [Lab 2](./Core Operations)|
-| 3    | Histograms                               | [Lab 3](./Histograms in OpenCV)|
-| 4    | Contours                                  | [Lab 4](./Contours in OpenCV) |
-| 5    | Canny Edge & Template Matching           | [Lab 5](./Canny Edge Detection, Template Matching) |
-| 6    | Harris & Shi-Tomasi Corners              | [Lab 6](./Harris & Shi-Tomasi Corner Detectors) |
-| 7    | Morphological Ops & Hough Transforms     | [Lab 7](./Morphological, Hough Line) |
-| 8    | Image Segmentation with Watershed        | [Lab 8](./Image Segmentation with Watershed) |
-| 9    | SIFT & SURF Features                     | [Lab 9](./SIFT, SURF Features) |
-| 10   | FAST Features                            | [Lab 10](./FAST Features) |
-| 11   | BRIEF Features                           | [Lab 11](./BRIEF Features) |
-| 12   | ORB Features                             | [Lab 12](./ORB Features) |
+| S.No | Lab Title                                |
+|------|------------------------------------------|
+| 1    | Drawing Functions in OpenCV              | 
+| 2    | Core Operations                          |
+| 3    | Histograms                               | 
+| 4    | Contours                                 | 
+| 5    | Canny Edge & Template Matching           | 
+| 6    | Harris & Shi-Tomasi Corners              | 
+| 7    | Morphological Ops & Hough Transforms     |
+| 8    | Image Segmentation with Watershed        | 
+| 9    | SIFT & SURF Features                     | 
+| 10   | FAST Features                            | 
+| 11   | BRIEF Features                           | 
+| 12   | ORB Features                             |
 
 ## 🛠️ Technologies Used
 - Python
