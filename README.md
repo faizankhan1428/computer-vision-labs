@@ -6,18 +6,18 @@ This repository contains a collection of 12 hands-on Computer Vision lab tasks i
 
 | S.No | Lab Title                                | Folder                         |
 |------|------------------------------------------|--------------------------------|
-| 1    | Drawing Functions in OpenCV              | [Lab 1](./opencv_lab1_drawing) |
-| 2    | Core Operations                          | [Lab 2](./opencv_lab2_core_ops)|
-| 3    | Histograms                               | [Lab 3](./opencv_lab3_histograms)|
-| 4    | Contours                                  | [Lab 4](./opencv_lab4_contours) |
-| 5    | Canny Edge & Template Matching           | [Lab 5](./opencv_lab5_canny_template) |
-| 6    | Harris & Shi-Tomasi Corners              | [Lab 6](./opencv_lab6_corner_detectors) |
-| 7    | Morphological Ops & Hough Transforms     | [Lab 7](./opencv_lab7_morph_hough) |
-| 8    | Image Segmentation with Watershed        | [Lab 8](./opencv_lab8_watershed) |
-| 9    | SIFT & SURF Features                     | [Lab 9](./opencv_lab9_sift_surf) |
-| 10   | FAST Features                            | [Lab 10](./opencv_lab10_fast) |
-| 11   | BRIEF Features                           | [Lab 11](./opencv_lab11_brief) |
-| 12   | ORB Features                             | [Lab 12](./opencv_lab12_orb) |
+| 1    | Drawing Functions in OpenCV              | [Lab 1](./Drawing Functions in OpenCV) |
+| 2    | Core Operations                          | [Lab 2](./Core Operations)|
+| 3    | Histograms                               | [Lab 3](./Histograms in OpenCV)|
+| 4    | Contours                                  | [Lab 4](./Contours in OpenCV) |
+| 5    | Canny Edge & Template Matching           | [Lab 5](./Canny Edge Detection, Template Matching) |
+| 6    | Harris & Shi-Tomasi Corners              | [Lab 6](./Harris & Shi-Tomasi Corner Detectors) |
+| 7    | Morphological Ops & Hough Transforms     | [Lab 7](./Morphological, Hough Line) |
+| 8    | Image Segmentation with Watershed        | [Lab 8](./Image Segmentation with Watershed) |
+| 9    | SIFT & SURF Features                     | [Lab 9](./SIFT, SURF Features) |
+| 10   | FAST Features                            | [Lab 10](./FAST Features) |
+| 11   | BRIEF Features                           | [Lab 11](./BRIEF Features) |
+| 12   | ORB Features                             | [Lab 12](./ORB Features) |
 
 ## 🛠️ Technologies Used
 - Python
