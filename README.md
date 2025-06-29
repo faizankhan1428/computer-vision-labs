@@ -42,9 +42,9 @@ pip install -r requirements.txt
 Each lab may include images or output visualizations (optional). You can also extend these labs with your own improvements.
 
 📌 Author
-Muhammad Faizan Khan
+Muhammad Faizan 
 
-📊 Kaggle Profile
+📊 Kaggle Profile: https://www.kaggle.com/faizankhandeshmukh
 
 💼 Passionate about Computer Vision, AI, and Data Science
 
